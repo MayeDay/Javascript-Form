@@ -1,0 +1,62 @@
+*{
+    margin: 0%;
+    padding: 0%;
+
+}
+
+body{
+    width: 80%;
+    margin: auto;
+    background-color: rgb(189, 189, 189);
+}
+.submission{
+    margin-top: 5%;
+
+}
+
+.huge{
+    font-size: 10rem;
+    color: blueviolet;
+}
+
+.personal_information{
+
+    background-color: rgb(251, 255, 0);
+   width: 30%;
+   margin: auto;
+   padding: 3%;
+   align-items: center;
+
+
+}
+
+.personal_information input{
+    margin: 1%;
+}
+
+.personal_information h4{
+    margin: 1%;
+}
+
+
+.friend_information{
+    background-color: rgb(251, 255, 0);
+    width: 30%;
+    margin: auto;
+    padding: 3%;
+
+}
+
+.but{
+
+    width: 80%;
+    height: 40px;
+    margin: auto;
+    align-items: center;
+    margin-bottom: 1%;
+}
+
+.d{
+
+    margin-top: 2%;
+}
